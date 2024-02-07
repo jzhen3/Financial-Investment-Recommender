@@ -42,3 +42,12 @@ DOC:
 1. Final report
 2. Final poster
 </pre>
+
+CODE:
+<pre>
+  Visualization Data: A python notebook that generates dva_stock_prices_u.csv output that is used in Tableau Input
+  Sentiment Analysis: A python notebook that calculates headlines as positive, negative or neutral
+  Financial News Data:
+  Documents: Misc. documents
+  data_sources: Data source dependencies for Tableau (Project Viz.twbx)
+</pre>
