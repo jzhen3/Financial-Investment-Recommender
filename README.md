@@ -41,11 +41,8 @@ How to setup and run:
 Documents
 </pre>
 DOC:
-1. Final report pdf.[FinSight.pdf](https://github.com/jzhen3/Financial-Insight-Web-App/files/14190525/FinSight.pdf)
-
-   
-2. Final poster pdf.
-   ![team075poster](https://github.com/jzhen3/Financial-Insight-Web-App/assets/43261136/c1c42fc0-218c-44be-8739-05502c72a9be)
+1. Final report
+2. Final poster
 
 
 </pre>
