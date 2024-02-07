@@ -38,16 +38,14 @@ How to setup and run:
 
 
 
-Folder Name Legend:
+Documents
 </pre>
 DOC:
-1. Final report pdf.
-2. Final poster pdf.
+1. Final report pdf.[FinSight.pdf](https://github.com/jzhen3/Financial-Insight-Web-App/files/14190525/FinSight.pdf)
 
-CODE:
-1. Visualization Data: A python notebook that generates dva_stock_prices_u.csv output that is used in Tableau Input
-2. Sentiment Analysis: A python notebook that calculates headlines as positive, negative or neutral
-3. Financial News Data: 
-4. Documents: Misc. documents
-5. data_sources: Data source dependencies for Tableau (Project Viz.twbx)
+   
+2. Final poster pdf.
+   ![team075poster](https://github.com/jzhen3/Financial-Insight-Web-App/assets/43261136/c1c42fc0-218c-44be-8739-05502c72a9be)
+
+
 </pre>
