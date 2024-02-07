@@ -4,6 +4,14 @@ FinSight is a web based portfolio balancer that uses NLP and sentiment analysis 
 
 The link to the application is: https://public.tableau.com/app/profile/lakshmi.gadepalli/viz/ProjectViz_16819376507930/UserSurvey
 
+Documents
+</pre>
+DOC:
+1. [Final report](https://github.com/jzhen3/Financial-Insight-Web-App/blob/main/DOC/team075report.pdf)
+2. [Final poster](https://github.com/jzhen3/Financial-Insight-Web-App/blob/main/DOC/team075poster.pdf)
+</pre>
+
+
 If you want to setup our Tableau locally, you can do the following:
 
 How to setup and run:
@@ -33,16 +41,4 @@ How to setup and run:
   d. Feel free to preview the data table and hit refresh to bring in the data
 
 6. Your Tableau Dashboard and Visualization is ready for exploration!
-</pre>
-
-
-
-
-Documents
-</pre>
-DOC:
-1. Final report
-2. Final poster
-
-
 </pre>
