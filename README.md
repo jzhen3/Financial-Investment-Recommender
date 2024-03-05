@@ -6,7 +6,7 @@ Risk Aversion Survey: https://public.tableau.com/app/profile/lakshmi.gadepalli/v
 
 My Contribution to the Project:
 * Web-scraped financial data from news sources, including MarketWatch, Benzinga, and Motley Fool.: https://colab.research.google.com/drive/1-TJHscwdce7vYyVaMmMex4PDT4t2b8rM
-* Conducted Sentiment Analysis on the opinions of the Top 90 company public stocks： 
+* Conducted Sentiment Analysis on the articles news of the Top 90 company public stocks： 
 
 If you want to setup our Tableau locally, you can do the following:
 
