@@ -2,11 +2,13 @@ FinSight: Your Vision for Financial Insights
 
 FinSight is a web based portfolio balancer that uses NLP and sentiment analysis to analyze 10K and 10Q Fiscal Reports to generate an optimal master list of securities for trading. Then, that list is filtered through a risk assessment quiz that the user completes to understand the risk profile. Finally, that filtered list of securities is balanced into an investible portfolio using portfolio balancing techniques.
 
+A Dashboard Example: https://public.tableau.com/app/profile/lakshmi.gadepalli/viz/ProjectViz_16819376507930/Dashboard1
 Risk Aversion Survey: https://public.tableau.com/app/profile/lakshmi.gadepalli/viz/ProjectViz_16819376507930/UserSurvey
 
-My Contribution to the Project:
-* Web-scraped financial data from news sources, including MarketWatch, Benzinga, and Motley Fool.: https://colab.research.google.com/drive/1-TJHscwdce7vYyVaMmMex4PDT4t2b8rM
-* Conducted Sentiment Analysis on the articles news of the Top 90 company public stocks： 
+Jinsong Zhen's Contribution to the Project:
+* Web-scraped financial data from news sources, including MarketWatch, Benzinga, and Motley Fool: https://colab.research.google.com/drive/1-TJHscwdce7vYyVaMmMex4PDT4t2b8rM
+* Conducted Sentiment Analysis on the articles news of 90 company public stocks with the most postiive sentiments: https://colab.research.google.com/drive/1Iqf-ha5MYygdND6tMRDY7J7dXpNcFyAO?usp=sharing
+* Built a tool to generate quiz score: https://drive.google.com/file/d/1xoEN47CsaV1sonplE6VJs379ScXyFvcF/view?usp=sharing
 
 If you want to setup our Tableau locally, you can do the following:
 
