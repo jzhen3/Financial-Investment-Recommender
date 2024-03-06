@@ -9,7 +9,8 @@ Risk Aversion Survey: https://public.tableau.com/app/profile/lakshmi.gadepalli/v
 Jinsong Zhen's Contribution to the Project:
 * Web-scraped financial data from news sources, including MarketWatch, Benzinga, and Motley Fool: https://colab.research.google.com/drive/1-TJHscwdce7vYyVaMmMex4PDT4t2b8rM
 * Conducted Sentiment Analysis on the articles news of 90 company public stocks with the most postiive sentiments: https://colab.research.google.com/drive/1Iqf-ha5MYygdND6tMRDY7J7dXpNcFyAO?usp=sharing
-* Built a tool to generate quiz score: https://drive.google.com/file/d/1xoEN47CsaV1sonplE6VJs379ScXyFvcF/view?usp=sharing
+* Built a tool to generate quiz score:
+  https://drive.google.com/file/d/1xoEN47CsaV1sonplE6VJs379ScXyFvcF/view?usp=sharing
 
 If you want to setup our Tableau locally, you can do the following:
 
