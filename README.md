@@ -11,7 +11,7 @@ A Dashboard Example: https://public.tableau.com/app/profile/lakshmi.gadepalli/vi
 
 Risk Aversion Survey: https://public.tableau.com/app/profile/lakshmi.gadepalli/viz/ProjectViz_16819376507930/UserSurvey
 
-Documents
+Academic Report & Poster:
 </pre>
 DOC:
 1. Final report: https://github.com/jzhen3/Financial-Investment-Recommender/blob/main/DOC/team075report.pdf
