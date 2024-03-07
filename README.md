@@ -11,6 +11,12 @@ A Dashboard Example: https://public.tableau.com/app/profile/lakshmi.gadepalli/vi
 
 Risk Aversion Survey: https://public.tableau.com/app/profile/lakshmi.gadepalli/viz/ProjectViz_16819376507930/UserSurvey
 
+Documents
+</pre>
+DOC:
+1. Final report: https://github.com/jzhen3/Financial-Investment-Recommender/blob/main/DOC/team075report.pdf
+2. Final poster: https://github.com/jzhen3/Financial-Investment-Recommender/blob/main/DOC/team075poster.pdf
+</pre>
 
 If you want to setup our Tableau locally, you can do the following:
 
@@ -43,18 +49,11 @@ How to setup and run:
 6. Your Tableau Dashboard and Visualization is ready for exploration!
 </pre>
 
-Documents
-</pre>
-DOC:
-1. Final report
-2. Final poster
-</pre>
 
 CODE:
 <pre>
   Visualization Data: A python notebook that generates dva_stock_prices_u.csv output that is used in Tableau Input
-  Sentiment Analysis: A python notebook that calculates headlines as positive, negative or neutral
-  Financial News Data:
+  Sentiment Analysis: A python notebook that calculates the positive, negative or neutral sentiment scores for headlines
   Documents: Misc. documents
   data_sources: Data source dependencies for Tableau (Project Viz.twbx)
 </pre>
